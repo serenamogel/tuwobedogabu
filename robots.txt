@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://tuwobedogabu.pages.dev/sitemap.xml
